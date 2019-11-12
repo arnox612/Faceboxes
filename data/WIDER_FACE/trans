@@ -1,0 +1,9 @@
+with open('img_list.txt') as f:
+    lines=f.readlines()
+    for i in range(0,len(lines)):
+        lines[i]=lines[i].split()
+        lines[i]=lines[i][0]+'\n'
+with open('out.txt','w') as o:
+    o.writelines(lines)
+
+print ('done')
