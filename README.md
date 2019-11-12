@@ -35,4 +35,6 @@ As the same take care of the img_list.txt without xml info(otherwise the image c
 using /data/WIDER_FACE/trans.py
 
 ## Result 
+![](https://github.com/arnox612/Faceboxes/blob/master/screenshot/1.png)
+![](https://github.com/arnox612/Faceboxes/blob/master/screenshot/2.png)
 
